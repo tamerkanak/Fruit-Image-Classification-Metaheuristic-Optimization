@@ -79,5 +79,5 @@ Feel free to fork this repository and contribute by submitting a pull request.
 ## Contact
 
 For any questions or feedback, feel free to contact:
-[Your Name]
-[Your Email]
+Tamer Kanak
+tamerkanak75@gmail.com
